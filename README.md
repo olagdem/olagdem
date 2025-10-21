@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently partnered with GISIS-UFF<br>🌱 Studying seismic processing and potential field methods<br>💬 Interested in machine learning <br>⚡ New at programing stuff 
+🔭 I’m currently partnered with GIECAR-UFF<br>🌱 Studying 4D Seismic analysis, AVO analysis and Stochastic Seismic Inversion<br>💬 Interested in machine learning <br>⚡ New at programing stuff 
 
 
 ## 🌐 Socials:
